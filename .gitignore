@@ -1,0 +1,5 @@
+**/node_modules
+**/ts_check
+carrick
+dist
+.DS_Store

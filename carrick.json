@@ -1,0 +1,9 @@
+{
+  "serviceName": "user-service",
+  "internalEnvVars": [
+    "ORDER_SERVICE_URL"
+  ],
+  "internalDomains": [],
+  "externalEnvVars": [],
+  "externalDomains": []
+}
